@@ -1,8 +1,8 @@
-# reminders-app 
-Created `react-advanced`  React Project.
+# reminders-app                                         
+Created `react-advanced`  React Project.                          
 
-# Commit message format : 
-[Course: The Ultimate TypeScript Course > 10-React with TypeScript (29m) ] [ Video: #2-Creating-a-React-App-with-TypeScript_mp4_1m_28s ] -  
+# Commit message format :           
+[Course: The Ultimate TypeScript Course > 10-React with TypeScript (29m) ] [ Video: #3-Adding-Bootstrap_mp4_1m_34s ] -  
 
 # my-github Account : 
 https://github.com/avadhutFrontEnd
