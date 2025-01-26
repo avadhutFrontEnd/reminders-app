@@ -2,7 +2,7 @@
 Created `react-advanced`  React Project.                          
 
 # Commit message format :           
-[Course: The Ultimate TypeScript Course > 10-React with TypeScript (29m) ] [ Video: #7-Using-the-Effect-Hook_mp4_2m_08s ] -  
+[Course: The Ultimate TypeScript Course > 10-React with TypeScript (29m) ] [ Video: #8-Handling-Events_mp4_3m_41s ] -  
 
 # my-github Account : 
 https://github.com/avadhutFrontEnd
